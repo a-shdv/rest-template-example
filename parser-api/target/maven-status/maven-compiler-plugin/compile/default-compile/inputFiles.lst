@@ -1,0 +1,9 @@
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/ParserApiApplication.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/controller/PageController.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/model/Page.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/service/PageService.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/exception/PageNotFoundException.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/service/impl/PageService.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/dto/PageDto.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/dto/JobInfoDto.java
+/Users/a-shdv/IdeaProjects/aggregator/parser-api/src/main/java/com/company/repo/PageRepository.java

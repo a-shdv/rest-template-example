@@ -1,0 +1,10 @@
+com/company/controller/JobController.class
+com/company/service/JobService.class
+com/company/model/Job$JobBuilder.class
+com/company/exceptions/JobAlreadyExistsException.class
+com/company/exceptions/JobNotFoundException.class
+com/company/repo/JobRepository.class
+com/company/dto/JobDto.class
+com/company/service/impl/JobService.class
+com/company/model/Job.class
+com/company/AggregatorApiApplication.class

@@ -1,0 +1,9 @@
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/dto/JobDto.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/model/Job.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/service/JobService.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/exceptions/JobNotFoundException.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/exceptions/JobAlreadyExistsException.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/repo/JobRepository.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/service/impl/JobService.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/AggregatorApiApplication.java
+/Users/a-shdv/IdeaProjects/aggregator/aggregator-api/src/main/java/com/company/controller/JobController.java
